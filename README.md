@@ -1,1 +1,1 @@
-# War
+Ths is the final python project for my Problem Solving and Programming Methods course. I got a 95! (I think the display was a bit too bland.) Basically, it lets you play the classic card game WAR! with 2-3 players. Whoever gets the highest card wins the round, whoever wins the most rounds wins the game! 
